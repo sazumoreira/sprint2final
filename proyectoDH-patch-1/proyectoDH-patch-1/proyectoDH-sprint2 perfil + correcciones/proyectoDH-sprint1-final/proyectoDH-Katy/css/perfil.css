@@ -1,0 +1,54 @@
+.dropdown-menu{
+background-color: #d1964c;
+}
+
+/*caja imagen */
+div.card{
+width: 600px;
+margin: 50px auto;
+background-color: #d1964c;
+}
+
+/* imagen usuario */
+div.avatar{
+ /*height: 200px;
+ width: 200px;*/
+ background-repeat: no-repeat;
+ background-position: 50%;
+ border-radius: 50%;
+ background-size: 100% auto;
+}
+
+h5.card-title{
+color: #e5e1db;
+font-size: bold;
+}
+
+p.card-text{
+color: #e5e1db;
+}
+
+.lista-enlace{
+  text-decoration: none;
+}
+
+.list-group-item{
+  color: #d1964c;
+}
+
+li.list-group-item{
+  background-color: #d1964c;
+}
+
+a.lista-enlace{
+  color: #e5e1db;
+}
+
+
+/* #d1964c naranja
+#e5e1db gris claro
+#3a3d32 gris oscuro
+#988e7d gris medio
+#a2adaf celeste
+
+*/

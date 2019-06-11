@@ -1,0 +1,26 @@
+.buttondudas{
+  background-color: #988e7d;
+  color: white;
+  width: 100%;
+}
+
+.buttondudas:hover{
+  color: #3a3d32;
+}
+
+section {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  max-width: 900px;
+  margin: 0 auto;
+
+  }
+
+p {
+  width: 100%;
+
+}
+
+h2 {
+  width: 100%;
+}

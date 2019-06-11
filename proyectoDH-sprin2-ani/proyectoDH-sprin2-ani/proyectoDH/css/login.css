@@ -1,0 +1,21 @@
+.div-separacion {
+  max-width: 400px;
+  padding-top: 50px;
+}
+
+.buttonregister{
+  background-color: #988e7d;
+  color: white;
+  margin: 15px;
+  border-style: none;
+  margin-left: 40%;
+}
+
+.buttonregister:hover{
+  background-color: #3a3d32;
+}
+
+article {
+  max-width: 600px;
+  margin: 4% auto;
+}

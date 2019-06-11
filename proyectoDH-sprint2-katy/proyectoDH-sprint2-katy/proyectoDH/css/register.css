@@ -1,0 +1,32 @@
+.buttonregister{
+  background-color: #988e7d;
+  color: white;
+  margin: 15px;
+  border-style: none;
+}
+.buttonregister:hover{
+background-color: #3a3d32;
+}
+.buttonregister:active{
+  background-color: #988e7d;
+  color: white;
+  border-style: none;
+}
+.link-registro{
+  text-decoration: none;
+  color: white;
+}
+.link-registro:hover{
+  text-decoration: none;
+  color: white;
+}
+.link-registro:active{
+  text-decoration: none;
+  color: white;
+  background-color: #988e7d;
+}
+
+article {
+  max-width: 600px;
+  margin: 50px auto;
+}

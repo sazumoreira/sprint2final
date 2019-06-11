@@ -1,0 +1,74 @@
+
+@import "login.css";
+@import "dudas.css";
+@import "bienvenidos.css";
+@import "register.css";
+
+*{
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+/* CSS NAV*/
+.background-nav {
+  background-color: white !important;
+}
+.logo-img {
+  max-width: 15%;
+  margin-bottom: 12px;
+}
+.margin-li {
+  margin-right: 0;
+}
+
+.color-a {
+  color: #d1964c !important;
+  text-decoration: none;
+  font-weight: bold;
+  background-color: white !important;
+  margin-left: 80px;
+}
+.color-a:hover{
+  color: #988E7D;
+}
+/* CSS SECTION*/
+.alto-carousel{
+  max-height: 400px;
+}
+.display-section{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.borde-card {
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+}
+.section-style {
+  max-width: 1300px;
+}
+.size-img {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 20px auto;
+}
+h5 {
+  text-transform: uppercase;
+  text-align: center;
+}
+p{
+  text-align: center;
+  max-width: 200px;
+}
+
+
+footer{
+  background-color: #d1964c;
+  color: #e5e1db;
+  padding: 20px;
+  text-align: center;
+}
